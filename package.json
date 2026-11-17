@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A video series",
+  "keywords": [
+    "javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Suraj Thorat",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
